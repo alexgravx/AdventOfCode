@@ -1,4 +1,4 @@
-with open('/Users/alexandregravereaux/Desktop/AdventofCode/2022/text1', 'r') as file:
+with open('./2022/text1', 'r') as file:
     F = file.read().splitlines()
     F = [i for i in F]
 
